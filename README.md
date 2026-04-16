@@ -33,13 +33,13 @@ Currently deepening my knowledge in **RF systems and communication protocols** a
 | # | Project | Hardware | Skills |
 |---|---------|----------|--------|
 | 01 | [Smart Sensor DAQ](https://github.com/ghulam420-sarwar/Smart-Sensor-DAQ) | ESP32 + BME280 + DS18B20 | I²C, 1-Wire, Python logging |
-| 02 | [Solar Monitoring System](./02-Solar-Monitoring) | ESP32 + INA219 + OLED | High-side current sense, MQTT |
-| 03 | [Wearable Health Monitor](./03-Wearable-Health-Monitor) | ESP32-C3 + MAX30102 + MLX90614 | PPG HR, PCB design |
-| 04 | [MCU Test Automation](./04-MCU-Test-Automation) | ESP32 (DUT) + Python | pytest, serial, CI/CD |
-| 05 | [Smart Home Automation](./05-Smart-Home-Automation) | ESP32 + DHT22 + 4× Relay | MQTT, automation rules |
-| 06 | [BLE Weather Station](./06-BLE-Weather-Station) | ESP32 + BME280 + OLED | BLE GATT, bleak Python |
-| 07 | [Automatic Plant Watering](./07-Automatic-Plant-Watering) | ESP32 + soil sensor + pump | MOSFET drive, hysteresis |
-| 08 | [Obstacle-Avoiding Robot](./08-Obstacle-Avoiding-Robot) | Arduino UNO + HC-SR04 + L298N | Ultrasonic scan, servo, PWM |
+| 02 | [Solar Monitoring System](https://github.com/ghulam420-sarwar/Solar-Monitoring) | ESP32 + INA219 + OLED | High-side current sense, MQTT |
+| 03 | [Wearable Health Monitor](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor) | ESP32-C3 + MAX30102 + MLX90614 | PPG HR, PCB design |
+| 04 | [MCU Test Automation](https://github.com/ghulam420-sarwar/MCU-Test-Automation) | ESP32 (DUT) + Python | pytest, serial, CI/CD |
+| 05 | [Smart Home Automation](https://github.com/ghulam420-sarwar/Smart-Home-Automation) | ESP32 + DHT22 + 4× Relay | MQTT, automation rules |
+| 06 | [BLE Weather Station](https://github.com/ghulam420-sarwar/BLE-Weather-Station) | ESP32 + BME280 + OLED | BLE GATT, bleak Python |
+| 07 | [Automatic Plant Watering](https://github.com/ghulam420-sarwar/Automatic-Plant-Watering) | ESP32 + soil sensor + pump | MOSFET drive, hysteresis |
+| 08 | [Obstacle-Avoiding Robot](https://github.com/ghulam420-sarwar/Obstacle-Avoiding-Robot) | Arduino UNO + HC-SR04 + L298N | Ultrasonic scan, servo, PWM |
 
 ---
 
