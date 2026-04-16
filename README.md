@@ -33,7 +33,7 @@ Currently deepening my knowledge in **RF systems and communication protocols** a
 | # | Project | Hardware | Skills |
 |---|---------|----------|--------|
 | 01 | [Smart Sensor DAQ](https://github.com/ghulam420-sarwar/Smart-Sensor-DAQ) | ESP32 + BME280 + DS18B20 | I²C, 1-Wire, Python logging |
-| 02 | [Solar Monitoring System](https://github.com/ghulam420-sarwar/Solar-Monitoring) | ESP32 + INA219 + OLED | High-side current sense, MQTT |
+| 02 | [Solar Monitoring System](https://github.com/ghulam420-sarwar/Solar-Monitoring-System) | ESP32 + INA219 + OLED | High-side current sense, MQTT |
 | 03 | [Wearable Health Monitor](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor) | ESP32-C3 + MAX30102 + MLX90614 | PPG HR, PCB design |
 | 04 | [MCU Test Automation](https://github.com/ghulam420-sarwar/MCU-Test-Automation) | ESP32 (DUT) + Python | pytest, serial, CI/CD |
 | 05 | [Smart Home Automation](https://github.com/ghulam420-sarwar/Smart-Home-Automation) | ESP32 + DHT22 + 4× Relay | MQTT, automation rules |
