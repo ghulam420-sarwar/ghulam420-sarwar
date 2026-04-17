@@ -58,4 +58,4 @@ Currently deepening my knowledge in **RF systems and communication protocols** a
 
 ## 📫 Contact
 
-📧 g.sarwar.be16@gmail.com · 📍 Deggendorf, Germany · [LinkedIn](www.linkedin.com/in/ghulam420-sarwar)
+📧 g.sarwar.be16@gmail.com · 📍 Deggendorf, Germany · [LinkedIn](https://www.linkedin.com/in/ghulam420-sarwar)
