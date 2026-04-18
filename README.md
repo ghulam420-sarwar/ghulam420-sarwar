@@ -45,8 +45,8 @@ Currently deepening my knowledge in **RF systems and communication protocols** a
 
 ## 🎓 Education
 
-🎓 **M.Sc. Electrical & Information Engineering** — TH Deggendorf *(2024–present)*  
-🎓 **B.E. Electrical Engineering** — Sukkur IBA University *(2016–2022)*
+🎓 **M.Sc. Electrical Engineering & Information Technology** — TH Deggendorf *(2024–present)*  
+🎓 **B.E. Electrical Engineering** — Sukkur IBA University *(2022)*
 
 ## 🏆 Achievements
 
