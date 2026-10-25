@@ -1,37 +1,32 @@
 # Hi, I'm Ghulam Sarwar 👋
 
-**M.Sc. Electrical Engineering & Information Technology**  
+**M.Sc. Electrical Engineering & Information Technology**
 Specialisation: Communication Systems @ Technische Hochschule Deggendorf 🇩🇪
 
 ---
 
 ## 🔧 About Me
 
-Embedded systems engineer who loves building hardware that bridges the physical and digital worlds. I work across the full stack — from **PCB design and sensor integration**, through **firmware in C/C++**, to **Python test automation and data analysis**. I've shipped real prototypes: soldered, debugged with an oscilloscope and logic analyser, and validated against reference instruments.
-
-Currently deepening my knowledge in **RF systems and communication protocols** at TH Deggendorf.
+Electrical engineer with a background in embedded systems, hardware development, and software-based testing. My technical interests include **VHDL, digital logic design, RTL development, and hardware simulation**, complemented by experience in PCB design, microcontroller programming, and Python-based test automation. I am focused on developing my expertise in digital hardware design and verification while building on my foundation in electrical engineering and embedded systems.
 
 ---
 
 ## 🛠️ Skills
 
-**Embedded & Hardware**
-`ESP32` `ATmega32` `Arduino UNO` `I²C` `SPI` `UART` `1-Wire` `BLE`
-`PCB Design (KiCad)` `Oscilloscope` `Logic Analyser` `Multimeter`
+**VHDL & Digital Design** `VHDL` `Digital Logic Design` `Combinational Logic` `Sequential Logic` `RTL Fundamentals` `Testbenches`
 
-**Software & Tools**
-`C` `C++` `Python` `MATLAB` `PlatformIO` `Git`
-`Pandas` `Matplotlib` `pytest` `pyserial` `MQTT`
+**Embedded & Hardware** `ESP32` `ATmega32` `Arduino UNO` `I²C` `SPI` `UART` `1-Wire` `BLE` `PCB Design (KiCad)` `Oscilloscope` `Logic Analyser` `Multimeter`
 
-**Simulation**
-`LTspice` `Proteus` `MATLAB/Simulink`
+**Software & Tools** `C` `C++` `Python` `MATLAB` `PlatformIO` `Git` `Pandas` `Matplotlib` `pytest` `pyserial` `MQTT`
+
+**Simulation** `LTspice` `Proteus` `MATLAB/Simulink`
 
 ---
 
-## 📌 Projects
+## 📌 Embedded Systems Projects
 
-| # | Project | Hardware | Skills |
-|---|---------|----------|--------|
+| **#** | **Project** | **Hardware** | **Skills** |
+|---|---|---|---|
 | 01 | [Smart Sensor DAQ](https://github.com/ghulam420-sarwar/Smart-Sensor-DAQ) | ESP32 + BME280 + DS18B20 | I²C, 1-Wire, Python logging |
 | 02 | [Solar Monitoring System](https://github.com/ghulam420-sarwar/Solar-Monitoring-System) | ESP32 + INA219 + OLED | High-side current sense, MQTT |
 | 03 | [Wearable Health Monitor](https://github.com/ghulam420-sarwar/Wearable-Health-Monitor) | ESP32-C3 + MAX30102 + MLX90614 | PPG HR, PCB design |
@@ -43,19 +38,31 @@ Currently deepening my knowledge in **RF systems and communication protocols** a
 
 ---
 
+## 💻 VHDL & Digital Design Projects
+
+| **#** | **Project** | **Focus** | **Skills** |
+|---|---|---|---|
+| 01 | [VHDL Learning Portfolio](https://github.com/ghulam420-sarwar/vhdl-learning-portfolio) | Digital design and VHDL fundamentals | VHDL, GitHub |
+| 02 | [Basic Logic Gates](https://github.com/ghulam420-sarwar/vhdl-basic-gates) | Fundamental logic operations | Boolean logic, VHDL |
+| 03 | [Combinational Circuits](https://github.com/ghulam420-sarwar/vhdl-combinational-circuits) | Combinational logic design | VHDL, logic circuits |
+| 04 | [Sequential Circuits](https://github.com/ghulam420-sarwar/vhdl-sequential-circuits) | Clocked logic and registers | VHDL, sequential logic |
+| 05 | [VHDL Processes and Signals](https://github.com/ghulam420-sarwar/vhdl-processes-and-signals) | Processes, signals, and assignments | VHDL fundamentals |
+
+---
+
 ## 🎓 Education
 
-🎓 **M.Sc. Electrical Engineering & Information Technology** — TH Deggendorf *(2024–present)*  
+🎓 **M.Sc. Electrical Engineering & Information Technology** — TH Deggendorf *(2024–present)*
 🎓 **B.E. Electrical Engineering** — Sukkur IBA University *(2022)*
 
 ## 🏆 Achievements
 
-🥇 Winner — DICE AFS 2021 (AI Agronomist, PKR 100,000)  
-🥉 2nd Runner-up — Hult Prize 2022  
+🥇 Winner — DICE AFS 2021 (AI Agronomist, PKR 100,000)
+🥉 2nd Runner-up — Hult Prize 2022
 📊 97.6% validation accuracy — CNN plant recognition model (VGG-16 + TensorFlow)
 
 ---
 
 ## 📫 Contact
 
-📧 g.sarwar.be16@gmail.com · 📍 Deggendorf, Germany · [LinkedIn](https://www.linkedin.com/in/ghulam420-sarwar)
+📧 [g.sarwar.be16@gmail.com](mailto:g.sarwar.be16@gmail.com) · 📍 Deggendorf, Germany · [LinkedIn](https://www.linkedin.com/in/ghulam420-sarwar)
