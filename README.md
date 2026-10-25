@@ -53,12 +53,15 @@ Electrical engineer with a background in embedded systems, hardware development,
 ## 🎓 Education
 
 🎓 **M.Sc. Electrical Engineering & Information Technology** — TH Deggendorf *(2024–present)*
+
 🎓 **B.E. Electrical Engineering** — Sukkur IBA University *(2022)*
 
 ## 🏆 Achievements
 
 🥇 Winner — DICE AFS 2021 (AI Agronomist, PKR 100,000)
+
 🥉 2nd Runner-up — Hult Prize 2022
+
 📊 97.6% validation accuracy — CNN plant recognition model (VGG-16 + TensorFlow)
 
 ---
