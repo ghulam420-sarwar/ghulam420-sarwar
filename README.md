@@ -42,7 +42,7 @@ Electrical engineer with a background in embedded systems, hardware development,
 
 | **#** | **Project** | **Focus** | **Skills** |
 |---|---|---|---|
-| 01 | [Basic Logic Gates](https://github.com/ghulam420-sarwar/vhdl-basic-gates/tree/main) | Fundamental logic operations | Boolean logic, VHDL |
+| 01 | [Basic Logic Gates](https://github.com/ghulam420-sarwar/vhdl-basic-gates) | Fundamental logic operations | Boolean logic, VHDL |
 | 02 | [Combinational Circuits](https://github.com/ghulam420-sarwar/vhdl-combinational-circuits) | Combinational logic design | VHDL, logic circuits |
 | 03 | [Sequential Circuits](https://github.com/ghulam420-sarwar/vhdl-sequential-circuits) | Clocked logic and registers | VHDL, sequential logic |
 | 03 | [VHDL Processes and Signals](https://github.com/ghulam420-sarwar/vhdl-processes-and-signals) | Processes, signals, and assignments | VHDL fundamentals |
