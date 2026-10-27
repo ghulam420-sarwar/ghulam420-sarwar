@@ -42,11 +42,10 @@ Electrical engineer with a background in embedded systems, hardware development,
 
 | **#** | **Project** | **Focus** | **Skills** |
 |---|---|---|---|
-| 01 | [VHDL Learning Portfolio](https://github.com/ghulam420-sarwar/vhdl-learning-portfolio) | Digital design and VHDL fundamentals | VHDL, GitHub |
-| 02 | [Basic Logic Gates](https://github.com/ghulam420-sarwar/vhdl-basic-gates) | Fundamental logic operations | Boolean logic, VHDL |
-| 03 | [Combinational Circuits](https://github.com/ghulam420-sarwar/vhdl-combinational-circuits) | Combinational logic design | VHDL, logic circuits |
-| 04 | [Sequential Circuits](https://github.com/ghulam420-sarwar/vhdl-sequential-circuits) | Clocked logic and registers | VHDL, sequential logic |
-| 05 | [VHDL Processes and Signals](https://github.com/ghulam420-sarwar/vhdl-processes-and-signals) | Processes, signals, and assignments | VHDL fundamentals |
+| 01 | [Basic Logic Gates]([https://github.com/ghulam420-sarwar/vhdl-basic-gates](https://github.com/ghulam420-sarwar/vhdl-basic-gates/tree/main)) | Fundamental logic operations | Boolean logic, VHDL |
+| 02 | [Combinational Circuits](https://github.com/ghulam420-sarwar/vhdl-combinational-circuits) | Combinational logic design | VHDL, logic circuits |
+| 03 | [Sequential Circuits](https://github.com/ghulam420-sarwar/vhdl-sequential-circuits) | Clocked logic and registers | VHDL, sequential logic |
+| 03 | [VHDL Processes and Signals](https://github.com/ghulam420-sarwar/vhdl-processes-and-signals) | Processes, signals, and assignments | VHDL fundamentals |
 
 ---
 
